@@ -35,4 +35,4 @@ def home(request):
     #     ]
     # send_mass_mail((msg1, msg2), fail_silently=False)
     
-    return HttpResponse("Please check your New_email")
+    return HttpResponse("please check your new_email")
